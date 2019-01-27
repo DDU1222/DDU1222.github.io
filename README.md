@@ -11,13 +11,17 @@ bankcard-validator：
 [算法参考链接](https://www.jianshu.com/p/193d8b84a6a1)    
 [校验银行卡号链接](https://ddu1222.github.io/bankcard-validator/bcValidator.html)   
 [生成银行卡号链接](https://ddu1222.github.io/bankcard-validator/bcBuilder.html)
+
 *****
+
 fetch-polyfill：
 
 业务场景：项目脱离jQuery，转为react技术栈，就考虑采用window下的fetch来承担发送请求的任务。但fetch又有些不足，没有超时和终止机制，故封装了一个fetch文件。
 
 [项目地址](https://github.com/DDU1222/fetch-polyfill)
+
 *****
+
 batch-download:
 
 业务场景：在前端mock开发时，有需要许多图片站位的需求。但是爬下来的都是图片的链接，那么如何通过这些链接批量下载图片呢？下载下来的图片太大想要压缩下怎么办呢？
