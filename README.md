@@ -2,7 +2,7 @@
 
 ### 工具类
 *****
-bankcard-validator：
+npm bankcard-validator：
 
 业务场景：项目中需要对用户银行卡信息的正确性进行校验。一是为了减少乱输、输错的卡号提交到后端服务的请求次数，减少不必要的网络开销。二是为了避免错误卡号提交到银行处理，节省业务成本，提现专业性。故做成公共工具也能共同行们使用。
 
@@ -11,6 +11,18 @@ bankcard-validator：
 [算法参考链接](https://www.jianshu.com/p/193d8b84a6a1)    
 [校验银行卡号链接](https://ddu1222.github.io/bankcard-validator/bcValidator.html)   
 [生成银行卡号链接](https://ddu1222.github.io/bankcard-validator/bcBuilder.html)
+
+*****
+
+Chrome插件 SetCookie: 
+
+业务场景：开发者在开发项目的时候，经常需要绑定host来获取目标网站的cookie，使用这个工具我们可以在本地访问任何网站的cookie甚至同时多个网站的cookie，使开发变的更加方便。[待审核状态]
+
+![屏幕快照 2019-01-28 11.38.54.png](https://upload-images.jianshu.io/upload_images/3860275-7d85755f76532645.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![屏幕快照 2019-01-28 11.41.00.png](https://upload-images.jianshu.io/upload_images/3860275-0a8a2499e92b9611.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+[项目地址](https://github.com/DDU1222/SetCookie)
 
 *****
 
