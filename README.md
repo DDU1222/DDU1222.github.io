@@ -16,7 +16,7 @@ npm bankcard-validator：
 
 Chrome插件 SetCookie: 
 
-业务场景：开发者在开发项目的时候，经常需要绑定host来获取目标网站的cookie，使用这个工具我们可以在本地访问任何网站的cookie甚至同时多个网站的cookie，使开发变的更加方便。[待审核状态]
+业务场景：开发者在开发项目的时候，经常需要绑定host来获取目标网站的cookie，使用这个工具我们可以在本地访问任何网站的cookie甚至同时多个网站的cookie，使开发变的更加方便。
 
 ![屏幕快照 2019-01-28 11.38.54.png](https://upload-images.jianshu.io/upload_images/3860275-7d85755f76532645.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
